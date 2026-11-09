@@ -1,6 +1,20 @@
-<p align="center">
-  <a href="https://npux.design"><img src="hero.svg" alt="Nicholas Pulido. I build systems that design and engineering can share. Diagram linking model, design, policy, and code." width="100%" /></a>
-</p>
+
+<div align="left">
+
+<sub><code>N / P</code> &nbsp; DESIGN TECHNOLOGY / PRODUCT SYSTEMS</sub>
+
+# Nicholas Pulido
+
+**Staff Product Designer & Design Technologist**
+
+Product Design · Design Systems · AI · Frontend
+
+[Portfolio](https://npux.design) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/nickpulido/) &nbsp;·&nbsp; [X](https://x.com/NickP_UX)
+
+</div>
+
+---
+
 
 <p align="left">
   <a href="https://npux.design"><strong>Portfolio</strong></a> &nbsp;·&nbsp;
