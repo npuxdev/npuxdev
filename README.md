@@ -11,44 +11,38 @@
 
 ### `> about`
 
-I'm a product designer and design technologist working across **interaction design, design systems, frontend architecture, and AI-enabled products**.
+I'm a **Staff Product Designer and Design Technologist** working across product design, UX engineering, design systems, and AI.
 
-I like the work between disciplines: turning unclear product behavior into an explicit model, building a reference implementation, and making the decisions repeatable in code. The goal isn't just a polished screen; it's a system that holds together when the product changes.
+I bridge design and engineering to turn complex problems into intuitive experiences and scalable products.
 
 ```text
-NICHOLAS / SYSTEM PROFILE
-──────────────────────────────────────────────────────────────────
-  PRIMARY       Product design · Design engineering · Design systems
-  CURRENT       Agentic interfaces · Governed AI · Design-to-code
-  METHODS       Model → Contract → Reference → Validation → System
-  LOCATION      Southern California
-  WEB           npux.design
-──────────────────────────────────────────────────────────────────
+FOCUS      Product design · Design systems · AI
+BUILDING   Agentic interfaces · Design-to-code · AI tools
+BASED      Southern California
+WEB        npux.design
 ```
 
 ### `> selected work`
 
 | Project | What it explores |
 |:--|:--|
-| **[REDTHREAD](https://github.com/npuxdev/redthread)** | Investigation workspaces where evidence, relationships, timelines, and agent-generated analytical instruments meet. *Repository currently private.* |
 | **[SiteThread](https://github.com/npuxdev/sitethread)** | Location-aware coordination with an explicit, confirmed handoff. |
 | **[UXIR](https://github.com/npuxdev/uxir)** | Research into schema-driven interactions and structured UI. |
 | **[Page Notes](https://github.com/npuxdev/page-notes)** | Capture inline webpage feedback as developer-ready context and screenshots. |
 | **[Design Products with AI](https://github.com/npuxdev/design-products-with-ai)** | A skill for translating product intent into coherent, buildable designs. |
 | **[Agent Estimation Research](https://github.com/npuxdev/agent-estimation-research)** | Experiments into how well LLM agents estimate remaining work. |
 
-**More product work** — [Flow Intelligence](https://npux.design) · [Enterprise Design System](https://npux.design) · [TROT Agent Operations](https://npux.design) · [PolicyPal](https://npux.design)
+**Demo/Prototypes** — [Flow Intelligence](https://npux.design) · [Enterprise Design System](https://npux.design) · [TROT Agent Operations](https://npux.design) · [PolicyPal](https://npux.design)
 
-### `> working principles`
+### `> beyond the screen`
 
-```text
-01  MODEL FIRST            Give the product a shared source of truth.
-02  EXPLICIT CONTRACTS     Make behavior and constraints inspectable.
-03  REFERENCE BUILDS       Prove what static artifacts cannot resolve.
-04  GOVERNED INTELLIGENCE Keep evidence, uncertainty, and control visible.
-05  ENCODE WHAT REPEATS    Turn decisions into durable infrastructure.
-```
+When I'm not designing or building software, I'm usually exploring something else.
+
+- **Maker at heart.** Electronics, home automation, self-hosting, and the occasional project that gets more complicated than it needs to.
+- **Endlessly curious.** History, emerging technology, cybersecurity, and understanding how things work.
+- **Husband, dad, and dog owner.** Family life provides a welcome counterweight to time spent behind a screen.
+- **Always building.** Whether it's software, a piece of hardware, or an experiment with local AI, I enjoy making ideas tangible.
 
 ---
 
-<sub>Design + implementation are one continuous problem. <a href="https://npux.design">See the full portfolio →</a></sub>
+<sub>More than a GitHub profile. <a href="https://npux.design">Explore my work and background.</a></sub>
