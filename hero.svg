@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="490" viewBox="0 0 1200 490" role="img" aria-labelledby="title desc">
+<title id="title">Nicholas Pulido — Design, engineering, and the systems between</title>
+<desc id="desc">An editorial identity panel with a quiet interconnected system diagram showing model, interface, and implementation.</desc>
+<rect width="1200" height="490" fill="#F4F2EA"/>
+<rect x="1" y="1" width="1198" height="488" fill="none" stroke="#D6D9CE" stroke-width="2"/>
+<path d="M44 85H1156 M44 401H1156" stroke="#C9CFC2" stroke-width="1"/>
+<text x="45" y="52" fill="#3D604F" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" letter-spacing="2.2">N / P</text>
+<text x="143" y="52" fill="#788278" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="2">DESIGN TECHNOLOGY / PRODUCT SYSTEMS</text>
+<text x="1155" y="52" text-anchor="end" fill="#788278" font-family="monospace" font-size="14">PROFILE   /   001</text>
+<text x="45" y="173" fill="#1D2924" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="68" letter-spacing="-3">Nicholas</text>
+<text x="45" y="247" fill="#1D2924" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="68" letter-spacing="-3">Pulido<span fill="#4C715E">.</span></text>
+<text x="48" y="302" fill="#35463D" font-family="Arial,Helvetica,sans-serif" font-size="24">I build systems that design</text>
+<text x="48" y="335" fill="#35463D" font-family="Arial,Helvetica,sans-serif" font-size="24">and engineering can share.</text>
+<path d="M700 110H1155V365H700Z" fill="none" stroke="#D0D6C8"/>
+<path d="M718 155H1136 M718 260H1136 M799 125V351 M1035 125V351" stroke="#E0E3D9" stroke-width="1" stroke-dasharray="3 6"/>
+<path d="M764 231C838 231 820 170 917 170S1010 231 1088 231 M764 231C843 231 817 303 917 303S1021 231 1088 231" fill="none" stroke="#8BA894" stroke-width="2"/>
+<path d="M917 170V303" stroke="#ABB9A9" stroke-width="2" stroke-dasharray="4 6"/>
+<circle cx="764" cy="231" r="11" fill="#4C715E"/>
+<circle cx="917" cy="170" r="9" fill="#F4F2EA" stroke="#4C715E" stroke-width="3"/>
+<circle cx="917" cy="303" r="9" fill="#F4F2EA" stroke="#4C715E" stroke-width="3"/>
+<circle cx="1088" cy="231" r="11" fill="#4C715E"/>
+<text x="764" y="202" text-anchor="middle" fill="#52675B" font-family="monospace" font-size="13">01</text>
+<text x="917" y="140" text-anchor="middle" fill="#52675B" font-family="monospace" font-size="13">02</text>
+<text x="917" y="335" text-anchor="middle" fill="#52675B" font-family="monospace" font-size="13">03</text>
+<text x="1088" y="202" text-anchor="middle" fill="#52675B" font-family="monospace" font-size="13">04</text>
+<text x="764" y="265" text-anchor="middle" fill="#2B4437" font-family="Arial,Helvetica,sans-serif" font-size="15">MODEL</text>
+<text x="917" y="210" text-anchor="middle" fill="#2B4437" font-family="Arial,Helvetica,sans-serif" font-size="15">DESIGN</text>
+<text x="917" y="281" text-anchor="middle" fill="#2B4437" font-family="Arial,Helvetica,sans-serif" font-size="15">POLICY</text>
+<text x="1088" y="265" text-anchor="middle" fill="#2B4437" font-family="Arial,Helvetica,sans-serif" font-size="15">CODE</text>
+<text x="718" y="130" fill="#718276" font-family="monospace" font-size="12">SYSTEM / CONTINUITY MAP</text>
+<text x="45" y="442" fill="#315442" font-family="monospace" font-size="15">PRODUCT DESIGN</text>
+<text x="235" y="442" fill="#A7ADA1" font-family="monospace" font-size="15">/</text>
+<text x="260" y="442" fill="#315442" font-family="monospace" font-size="15">DESIGN SYSTEMS</text>
+<text x="458" y="442" fill="#A7ADA1" font-family="monospace" font-size="15">/</text>
+<text x="483" y="442" fill="#315442" font-family="monospace" font-size="15">AI SYSTEMS UX</text>
+<text x="672" y="442" fill="#A7ADA1" font-family="monospace" font-size="15">/</text>
+<text x="697" y="442" fill="#315442" font-family="monospace" font-size="15">FRONTEND</text>
+<text x="1155" y="442" text-anchor="end" fill="#68796B" font-family="monospace" font-size="14">npux.design</text>
+</svg>
