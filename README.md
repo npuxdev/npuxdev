@@ -9,8 +9,6 @@
 
 Product Design · Design Systems · AI · Frontend
 
-[Portfolio](https://npux.design) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/nickpulido/) &nbsp;·&nbsp; [X](https://x.com/NickP_UX)
-
 </div>
 
 ---
