@@ -38,7 +38,7 @@ WEB        npux.design
 
 | Project | What it explores |
 |:--|:--|
-| **[TROT Agent Console](https://github.com/npuxdev/trot-agent-console)** · Case study | Enterprise agent workflows, complex operational interfaces, and design systems. |
+| **[TROT Agent Console](https://github.com/npuxdev/trot-agent-console)** | **[Case Study](https://npux.design/case-studies/trot-agent-console)**· Source & Case Study | Enterprise agent workflows, complex operational interfaces, and design systems. |
 | **[REDTHREAD](https://github.com/npuxdev/redthread)** · Source | Agent-native investigation with evidence processing, shared state, and human-reviewed findings. |
 | **[Tax Scratchpad](https://github.com/npuxdev/tax-scratchpad)** · Source | Financial scenario modeling, calculation dependencies, and transparent provenance. |
 | **[MESA — Decision Landscape](https://github.com/npuxdev/mesa-public)** · Source | Versioned operational workflows, evidence-based analytics, and human-reviewed AI proposals. |
