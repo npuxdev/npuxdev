@@ -38,13 +38,14 @@ WEB        npux.design
 
 | Project | What it explores |
 |:--|:--|
-| **[SiteThread](https://github.com/npuxdev/sitethread)** | Location-aware coordination with an explicit, confirmed handoff. |
-| **[UXIR](https://github.com/npuxdev/uxir)** | Research into schema-driven interactions and structured UI. |
-| **[Page Notes](https://github.com/npuxdev/page-notes)** | Capture inline webpage feedback as developer-ready context and screenshots. |
-| **[Design Products with AI](https://github.com/npuxdev/design-products-with-ai)** | A skill for translating product intent into coherent, buildable designs. |
-| **[Agent Estimation Research](https://github.com/npuxdev/agent-estimation-research)** | Experiments into how well LLM agents estimate remaining work. |
+| **[TROT Agent Console](https://npux.design/case-studies/trot-agent-console)** · Case study | Enterprise agent workflows, complex operational interfaces, and design systems. |
+| **[REDTHREAD](https://github.com/npuxdev/redthread)** · Source | Agent-native investigation with evidence processing, shared state, and human-reviewed findings. |
+| **[Tax Scratchpad](https://github.com/npuxdev/tax-scratchpad)** · Source | Financial scenario modeling, calculation dependencies, and transparent provenance. |
+| **[MESA — Decision Landscape](https://github.com/npuxdev/mesa-public)** · Source | Versioned operational workflows, evidence-based analytics, and human-reviewed AI proposals. |
+| **[Agent Estimation Research](https://github.com/npuxdev/agent-estimation-research)** · Source | Reproducible experiments measuring how LLM agents estimate remaining work. |
+| **[Page Notes](https://github.com/npuxdev/page-notes)** · Source | Browser-based annotation, persistent review state, and developer-ready feedback export. |
 
-**Demo/Prototypes** — [Flow Intelligence](https://npux.design) · [Enterprise Design System](https://npux.design) · [TROT Agent Operations](https://npux.design) · [PolicyPal](https://npux.design)
+**Other explorations** — [SiteThread](https://github.com/npuxdev/sitethread) · [Semantic UI Research](https://github.com/npuxdev/semantic-ui-research) · [Design Products with AI](https://github.com/npuxdev/design-products-with-ai) · [Flow Intelligence](https://npux.design) · [Enterprise Design System](https://npux.design) · [PolicyPal](https://npux.design)
 
 ### `> beyond the screen`
 
